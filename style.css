@@ -4,3 +4,12 @@
 .flex h3{
     padding-left: 3rem;
 }
+.bg-color{
+    background-color: aqua;
+    height: 10vh;
+    margin-top: 10rem;
+    text-align: center;
+    padding-top: 1.5rem;
+
+    
+}
